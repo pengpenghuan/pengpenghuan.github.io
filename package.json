@@ -8,7 +8,8 @@
     "docs:dev": "pnpm run register:components && vitepress dev docs --host",
     "docs:build": "pnpm run register:components && vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "register:components": "vitepress-rc"
+    "register:components": "vitepress-rc",
+    "deploy:win": "powershell bin/autoDeploy.bat"
   },
   "dependencies": {
     "axios": "^1.5.0",
