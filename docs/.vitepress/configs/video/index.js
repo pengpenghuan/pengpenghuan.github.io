@@ -34,12 +34,12 @@ export default [
             },
             {
                 id: '202309050952',
-                text: 'MD示例文档1',
+                text: 'MD示例文档1111',
                 link: '/video/md_example',
             },
             {
                 id: '202309051030',
-                text: 'MD示例文档2',
+                text: 'MD示例文档2111',
                 link: '/video/md_example_2',
             }
         ]
