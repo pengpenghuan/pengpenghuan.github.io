@@ -22,12 +22,12 @@ hero:
 features:
   - icon: ⚡️
     link: /video/
-    title: 视觉AI平台
-    details: 视觉AI平台内容简介
+    title: 视觉平台
+    details: 视觉平台内容简介
   - icon: 🛠️
     link: /emergency/
-    title: 生产应急平台
-    details: 生产应急平台内容简介
+    title: 生产平台
+    details: 生产平台内容简介
   - icon: ⚡️
     link: /emergency/
     title: 架构设计
